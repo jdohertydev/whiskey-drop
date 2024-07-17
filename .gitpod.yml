@@ -13,4 +13,5 @@ vscode:
     - kevinglasson.cornflakes-linter
     - hookyqr.beautify
 
-workspaceClass: standard
+# Uncomment the following line if you want to set a specific workspace class.
+# workspaceClass: standard
